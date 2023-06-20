@@ -1,0 +1,42 @@
+.highlighted-kategori{
+    height: 250px;
+}
+
+.kategori-makanan-berat{
+    background : linear-gradient(rgba(0,0,0,0.4), (rgba(0,0,0,0.4)), url("image/8ZAZixiqKQfI2Ms4WQX5.jpeg"));
+}
+
+a{
+    text-decoration: none;
+}
+a:hover:visited{
+    color:#f0eccf ;
+}
+
+a:visited{
+    -webkit-text-stroke: 1px #1a0000; color: white;
+}
+body{
+  overflow-x: hidden;
+}
+.text-harga{
+    font-size: 22px;
+    color: #1a0000;
+}
+.image-box{
+    height: 250px;
+}
+.image-box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.produk-terkait-image{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+
